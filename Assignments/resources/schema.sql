@@ -1,5 +1,5 @@
 USE learning;
-#inserted from test
+#inserted from remote
 DROP TABLE students;
 DROP TABLE grades;
 CREATE TABLE students (id INT, stu_name VARCHAR(255), marks INT, PRIMARY KEY(id));
